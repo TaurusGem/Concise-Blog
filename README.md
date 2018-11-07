@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 这是一个简单的博客！很简单
 
 You can use the [editor on GitHub](https://github.com/TaurusGem/Concise-Blog/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
